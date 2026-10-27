@@ -1,1 +1,21 @@
-
+{
+  "appnews": {
+    "appid": 252490,
+    "newsitems": [
+      {
+        "gid": "380788575849666406",
+        "title": "",
+        "url": "https://discord.com/invite/3k3asrHHzq",
+        "is_external_url": true,
+        "author": "Posted by b1gudi",
+        "contents": "",
+        "feedlabel": "Community Announcements",
+        "date": "01.01.2025",
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 252490
+      }
+    ],
+    "count": 1
+  }
+}
